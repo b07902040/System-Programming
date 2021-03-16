@@ -1,5 +1,6 @@
-all:  hw3.c main.c
-	gcc scheduler.o hw3.c -o hw3
-	gcc main.c -o main
+all: bidding_system.c host.c player.c
+	gcc bidding_system.c -o bidding_system
+	gcc host.c -o host
+	gcc player.c -o player
 clean:
-	rm -f hw3 main
+	rm -f bidding_system host player

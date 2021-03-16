@@ -1,4 +1,5 @@
-all:
-	gcc hw4.c -lm -lpthread -O3 -o hw4
+all:  hw3.c main.c
+	gcc scheduler.o hw3.c -o hw3
+	gcc main.c -o main
 clean:
-	rm -f result.csv
+	rm -f hw3 main
