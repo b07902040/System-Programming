@@ -1,0 +1,55 @@
+run P1 at 0
+P4 3883
+run P1 at 0
+P5 3884
+run P1 at 0
+P6 3885
+run P1 at 0
+P3 3882
+run P1 at 0
+run P2 at 500
+P7 3886
+run P1 at 0
+P2 3881
+P1 3880
+run P1 at 0
+run P2 at 500
+run P3 at 1000
+run P4 at 1500
+run P5 at 2000
+run P6 at 2500
+run P1 at 3000
+run P7 at 3500
+run P2 at 4000
+run P3 at 4500
+run P4 at 5000
+run P5 at 5500
+run P6 at 6000
+run P1 at 6500
+run P7 at 7000
+run P2 at 7500
+run P3 at 8000
+run P1 at 8500
+run P7 at 9000
+run P2 at 9500
+run P3 at 10000
+run P1 at 10500
+run P7 at 11000
+run P2 at 11500
+run P3 at 12000
+run P1 at 12500
+run P7 at 13000
+run P2 at 13500
+run P3 at 14000
+run P1 at 14500
+run P7 at 15000
+run P2 at 15500
+run P1 at 16000
+run P7 at 16500
+run P2 at 17000
+run P1 at 17500
+run P7 at 18000
+run P2 at 18500
+run P1 at 19000
+run P2 at 19500
+run P1 at 20000

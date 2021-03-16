@@ -1,0 +1,19 @@
+P1 3858
+run P1 at 600
+P2 3859
+run P1 at 600
+run P2 at 1100
+run P1 at 1600
+run P2 at 2100
+run P1 at 2600
+run P2 at 3100
+run P1 at 3600
+run P2 at 4100
+run P1 at 4600
+run P2 at 5100
+run P1 at 5600
+run P2 at 6100
+run P1 at 6600
+run P2 at 7100
+run P1 at 7600
+run P2 at 8100
