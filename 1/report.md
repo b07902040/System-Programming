@@ -50,7 +50,9 @@ switch表示content switch。
 
 * RR
   使用queue，ready的就直接進queue尾端
+  
   非-1 : 檢查my_time-pre_time是否為Quantum的倍數，pre_time為上一次switch的時間。若是就將in_cpu push到queue尾端，再從頭pop出來
+  
   -1 :若queue不為空就pop queue做為in_cpu
 
 * SJF
