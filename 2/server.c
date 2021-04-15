@@ -131,7 +131,7 @@ int main(int argc, char** argv) {
 	int sinflock[100000] = {0};
 	struct flock lock;
 	while (1) {
-		// TODO: Add IO multiplexing
+		// IO multiplexing
 		readfds = master;
 		if(select(maxfd + 1, &readfds, NULL, NULL,&timeout) <= 0)
 			continue;
